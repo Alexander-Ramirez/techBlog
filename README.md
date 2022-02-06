@@ -23,4 +23,6 @@
   Alexander-Ramirez
 
   ## Screenshots
-  
+  <img width="953" alt="image" src="https://user-images.githubusercontent.com/93147019/152670875-a128f9b6-e324-4afa-a1bc-79ec0ae0845d.png">
+  <img width="857" alt="image" src="https://user-images.githubusercontent.com/93147019/152670889-5a8f70d4-b21a-4474-8765-5ff477eefa6d.png">
+  <img width="935" alt="image" src="https://user-images.githubusercontent.com/93147019/152670904-f32f27d8-0b01-4452-bf20-7998fa15e6c0.png">
